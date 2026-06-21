@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model artifacts & large outputs
+*.pkl
+*.npy
+*.csv
+*.h5
+*.hdf5
+*.pt
+*.pth
+
+# Plot outputs
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Kaggle / local secrets
+*.json
+kaggle.json
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
