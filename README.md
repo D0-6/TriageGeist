@@ -66,7 +66,7 @@ The notebook expects the public **Triagegeist dataset** as a Kaggle input:
 1. In **Notebook Settings → Accelerator**, select **GPU T4 × 2**.  
    *(CPU-only will work but will be significantly slower for the sentence-transformer embedding and GPU-boosted models.)*
 2. Click **Run → Run All**.
-3. Expected runtime: **~35–45 minutes** end-to-end on a Kaggle GPU T4 × 2 session.
+3. Expected runtime: **~75–90 minutes (1h 15m - 1h 30m)** end-to-end on a Kaggle GPU T4 × 2 session.
 
 ---
 
